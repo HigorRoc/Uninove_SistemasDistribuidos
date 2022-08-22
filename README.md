@@ -19,6 +19,8 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 ### :pushpin: Links Utilizados
 > Link do Github Prof.: [Clique aqui](https://github.com/EdsonMSouza)
 
+> Link Curso Dados: [Clique aqui](https://github.com/EdsonMSouza/ciencia-de-dados)
+
 > Link Instalador Java C: [Clique aqui](https://www.oracle.com/java/technologies/downloads/#jdk18-windows)
 ---
 
