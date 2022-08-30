@@ -1,0 +1,5 @@
+// Atividade
+// Executar 10 vezes o código e observar a partir de quando
+// ocorre um problema com a sincronia.
+// Execute novamente as 10 rodadas, alterando o tempo do: 
+// Produtor e do Consumidor de forma diferente
