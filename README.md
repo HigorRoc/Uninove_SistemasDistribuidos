@@ -10,7 +10,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 ### :pushpin: Atividades e Arquivos
 > Google Classroom: [Clique aqui](https://classroom.google.com/u/3/c/NDg4ODEyMjA2ODYz)
 
-> Sem atividades ainda :warning:
+> Replit: [Clique aqui](https://replit.com/@HigorRocha/apiPython#main.py)
 
 ---
 
